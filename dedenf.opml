@@ -17,11 +17,14 @@
             <outline text="andrewchen" type="rss" xmlUrl="http://andrewchen.co/feed/"></outline>
             <outline text="AVC" type="rss" xmlUrl="http://feeds.feedburner.com/avc"></outline>
             <outline text="First Round Review" type="rss" xmlUrl="http://firstround.com/review/feed.xml"></outline>
+            <outline text="Longreads" type="rss" xmlUrl="https://longreads.com/feed/"></outline>
+            <outline text="MacSparky" type="rss" xmlUrl="https://www.macsparky.com/blog?format=rss"></outline>
             <outline text="One Foot Tsunami" type="rss" xmlUrl="https://onefoottsunami.com/feed/atom/"></outline>
             <outline text="ongoing by Tim Bray" type="rss" xmlUrl="https://www.tbray.org/ongoing/ongoing.atom"></outline>
             <outline text="Sam Altman" type="rss" xmlUrl="http://blog.samaltman.com/posts.atom"></outline>
             <outline text="Seth Godin's Blog on marketing, tribes and respect" type="rss" xmlUrl="http://sethgodin.typepad.com/seths_blog/atom.xml"></outline>
             <outline text="Storage Freak" type="rss" xmlUrl="http://www.storagefreak.net/feed"></outline>
+            <outline text="Stratechery by Ben Thompson" type="rss" xmlUrl="https://stratechery.com/feed/"></outline>
             <outline text="The Brooks Review" type="rss" xmlUrl="https://brooksreview.net/feed/"></outline>
             <outline text="The Sweet Setup" type="rss" xmlUrl="http://thesweetsetup.com/feed/"></outline>
             <outline text="Uses This" type="rss" xmlUrl="https://usesthis.com/feed.atom"></outline>
@@ -52,6 +55,7 @@
             <outline text="Bocoup" type="rss" xmlUrl="https://bocoup.com/feed"></outline>
             <outline text="Cloudflare Blog" type="rss" xmlUrl="https://blog.cloudflare.com/rss/"></outline>
             <outline text="Databricks" type="rss" xmlUrl="https://databricks.com/feed"></outline>
+            <outline text="Developers Writing - Medium" type="rss" xmlUrl="https://medium.com/feed/developers-writing"></outline>
             <outline text="DevOps.com" type="rss" xmlUrl="https://devops.com/feed/"></outline>
             <outline text="DigitalOcean Community Tutorials" type="rss" xmlUrl="https://www.digitalocean.com/community/tutorials/feed"></outline>
             <outline text="Docker Blog" type="rss" xmlUrl="https://blog.docker.com/feed/"></outline>
@@ -109,8 +113,11 @@
         </outline>
         <outline text="Podcast">
             <outline text="Accidental Tech Podcast" type="rss" xmlUrl="http://atp.fm/episodes?format=RSS"></outline>
+            <outline text="EPISODES - CALL YOUR GIRLFRIEND" type="rss" xmlUrl="http://www.callyourgirlfriend.com/episodes?format=RSS"></outline>
+            <outline text="Exponent" type="rss" xmlUrl="http://exponent.fm/feed/"></outline>
             <outline text="Indie Hackers Interviews" type="rss" xmlUrl="https://www.indiehackers.com/feed.xml"></outline>
             <outline text="Syntax - Tasty Web Development Treats" type="rss" xmlUrl="https://feed.syntax.fm/rss"></outline>
+            <outline text="Technotopia" type="rss" xmlUrl="http://feeds.feedburner.com/Technotopia"></outline>
             <outline text="The Talk Show With John Gruber" type="rss" xmlUrl="https://daringfireball.net/thetalkshow/rss"></outline>
         </outline>
     </body>
