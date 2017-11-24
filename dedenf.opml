@@ -41,6 +41,7 @@
             <outline text="InVision Blog" type="rss" xmlUrl="https://www.invisionapp.com/blog/feed/"></outline>
             <outline text="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom"></outline>
             <outline text="Signal v. Noise - Medium" type="rss" xmlUrl="https://m.signalvnoise.com/feed"></outline>
+            <outline text="The New Stack" type="rss" xmlUrl="https://thenewstack.io/feed/"></outline>
         </outline>
         <outline text="EcoFinCrypt">
             <outline text="Bitcoin Magazine" type="rss" xmlUrl="https://bitcoinmagazine.com/feed"></outline>
