@@ -5,26 +5,30 @@
             <outline text="AppleInsider - Frontpage News" type="rss" xmlUrl="http://appleinsider.com/appleinsider.rss"></outline>
             <outline text="Daring Fireball" type="rss" xmlUrl="https://daringfireball.net/feeds/main"></outline>
             <outline text="Engadget RSS Feed" type="rss" xmlUrl="https://www.engadget.com/rss.xml"></outline>
-            <outline text="MacRumors: Mac News and Rumors - All Stories" type="rss" xmlUrl="http://feeds.macrumors.com/MacRumors-All"></outline>
+            <outline text="iMore - The #1 iPhone, iPad, and iPod touch blog" type="rss" xmlUrl="https://www.imore.com/rss.xml"></outline>
             <outline text="MacStories" type="rss" xmlUrl="https://www.macstories.net/feed/"></outline>
             <outline text="Macworld" type="rss" xmlUrl="http://www.macworld.com/index.rss"></outline>
             <outline text="The Loop" type="rss" xmlUrl="http://www.loopinsight.com/feed/"></outline>
             <outline text="TidBITS: Apple News for the Rest of Us" type="rss" xmlUrl="http://tidbits.com/feeds/tidbits_blurb.rss"></outline>
         </outline>
         <outline text="Blogs">
+            <outline text="99U99U" type="rss" xmlUrl="http://99u.com/feed"></outline>
             <outline text="500ish Words - Medium" type="rss" xmlUrl="https://500ish.com/feed"></outline>
             <outline text="512 Pixels" type="rss" xmlUrl="https://512pixels.net/feed/"></outline>
-            <outline text="99U99U" type="rss" xmlUrl="http://99u.com/feed"></outline>
             <outline text="andrewchen" type="rss" xmlUrl="http://andrewchen.co/feed/"></outline>
             <outline text="AVC" type="rss" xmlUrl="http://feeds.feedburner.com/avc"></outline>
+            <outline text="BirchTree" type="rss" xmlUrl="https://feedpress.me/birchtree"></outline>
             <outline text="First Round Review" type="rss" xmlUrl="http://firstround.com/review/feed.xml"></outline>
             <outline text="inessential.com" type="rss" xmlUrl="http://inessential.com/xml/rss.xml"></outline>
             <outline text="Longreads" type="rss" xmlUrl="https://longreads.com/feed/"></outline>
             <outline text="MacSparky" type="rss" xmlUrl="https://www.macsparky.com/blog?format=rss"></outline>
+            <outline text="Marius Masalar" type="rss" xmlUrl="http://feeds.feedburner.com/MariusMasalar"></outline>
             <outline text="One Foot Tsunami" type="rss" xmlUrl="https://onefoottsunami.com/feed/atom/"></outline>
             <outline text="ongoing by Tim Bray" type="rss" xmlUrl="https://www.tbray.org/ongoing/ongoing.atom"></outline>
+            <outline text="Pi.co" type="rss" xmlUrl="https://pi.co/feed/"></outline>
             <outline text="Public Books" type="rss" xmlUrl="http://www.publicbooks.org/feed/"></outline>
             <outline text="Sam Altman" type="rss" xmlUrl="http://blog.samaltman.com/posts.atom"></outline>
+            <outline text="Securelist - Kaspersky Lab’s cyberthreat research and reports" type="rss" xmlUrl="https://securelist.com/feed/"></outline>
             <outline text="Seth Godin's Blog on marketing, tribes and respect" type="rss" xmlUrl="http://sethgodin.typepad.com/seths_blog/atom.xml"></outline>
             <outline text="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors"></outline>
             <outline text="Stratechery by Ben Thompson" type="rss" xmlUrl="https://stratechery.com/feed/"></outline>
@@ -38,15 +42,20 @@
             <outline text="A List Apart: The Full Feed" type="rss" xmlUrl="https://alistapart.com/main/feed"></outline>
             <outline text="Cake Solutions" type="rss" xmlUrl="http://www.cakesolutions.net/teamblogs/rss.xml"></outline>
             <outline text="CIO" type="rss" xmlUrl="http://www.cio.com/index.rss"></outline>
+            <outline text="Discover Dev" type="rss" xmlUrl="https://www.discoverdev.io/rss.xml"></outline>
             <outline text="freeCodeCamp - Medium" type="rss" xmlUrl="https://medium.freecodecamp.org/feed"></outline>
             <outline text="Giant Robots Smashing Into Other Giant Robots" type="rss" xmlUrl="http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots"></outline>
             <outline text="Hacker Noon - Medium" type="rss" xmlUrl="https://hackernoon.com/feed"></outline>
+            <outline text="Ideas - O'Reilly Media" type="rss" xmlUrl="https://www.oreilly.com/ideas/feed.atom"></outline>
             <outline text="InfoQ" type="rss" xmlUrl="https://www.infoq.com/feed"></outline>
             <outline text="InVision Blog" type="rss" xmlUrl="https://www.invisionapp.com/blog/feed/"></outline>
+            <outline text="Learning Tree Blog" type="rss" xmlUrl="https://blog.learningtree.com/feed/"></outline>
+            <outline text="Lobsters" type="rss" xmlUrl="https://lobste.rs/rss"></outline>
             <outline text="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom"></outline>
             <outline text="Node.js Collection - Medium" type="rss" xmlUrl="https://medium.com/feed/the-node-js-collection"></outline>
             <outline text="Signal v. Noise - Medium" type="rss" xmlUrl="https://m.signalvnoise.com/feed"></outline>
             <outline text="The New Stack" type="rss" xmlUrl="https://thenewstack.io/feed/"></outline>
+            <outline text="Torque" type="rss" xmlUrl="https://torquemag.io/feed/"></outline>
         </outline>
         <outline text="EcoFinCrypt">
             <outline text="Bitcoin Magazine" type="rss" xmlUrl="https://bitcoinmagazine.com/feed"></outline>
@@ -59,6 +68,7 @@
         </outline>
         <outline text="Engineering">
             <outline text="8th Light Blog" type="rss" xmlUrl="http://blog.8thlight.com/feed/atom.xml"></outline>
+            <outline text="Airbrake Blog" type="rss" xmlUrl="https://airbrake.io/blog/feed"></outline>
             <outline text="Auth0 Blog" type="rss" xmlUrl="https://auth0.com/blog/rss.xml"></outline>
             <outline text="Base Lab" type="rss" xmlUrl="https://lab.getbase.com/feed/"></outline>
             <outline text="Bocoup" type="rss" xmlUrl="https://bocoup.com/feed"></outline>
@@ -75,13 +85,14 @@
             <outline text="GitHub Engineering" type="rss" xmlUrl="http://githubengineering.com/atom.xml"></outline>
             <outline text="Google Developers Blog" type="rss" xmlUrl="http://googledevelopers.blogspot.com/feeds/posts/default"></outline>
             <outline text="Hashicorp Blog" type="rss" xmlUrl="http://hashicorp.com/feed.xml"></outline>
-            <outline text="Heroku" type="rss" xmlUrl="http://feeds2.feedburner.com/heroku"></outline>
             <outline text="High Scalability" type="rss" xmlUrl="http://feeds.feedburner.com/HighScalability"></outline>
             <outline text="Indeed Engineering Blog" type="rss" xmlUrl="http://engineering.indeedblog.com/feed/"></outline>
             <outline text="Inside Intercom" type="rss" xmlUrl="http://feeds.feedburner.com/insideintercom"></outline>
+            <outline text="Instagram Engineering - Medium" type="rss" xmlUrl="https://engineering.instagram.com/feed"></outline>
             <outline text="Kickstarter Engineering - Medium" type="rss" xmlUrl="http://kickstarter.com/backing-and-hacking.atom"></outline>
             <outline text="Labs" type="rss" xmlUrl="http://labs.spotify.com/feed/"></outline>
             <outline text="LinkedIn Engineering" type="rss" xmlUrl="http://engineering.linkedin.com/blog.rss"></outline>
+            <outline text="Made Tech on Software Delivery" type="rss" xmlUrl="http://www.madetech.com/feed"></outline>
             <outline text="MailChimp Email Marketing BlogMailChimp Email Marketing Blog" type="rss" xmlUrl="http://blog.mailchimp.com/feed/"></outline>
             <outline text="Mozilla Hacks – the Web developer blog" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"></outline>
             <outline text="Netflix TechBlog - Medium" type="rss" xmlUrl="https://medium.com/feed/netflix-techblog"></outline>
@@ -90,11 +101,14 @@
             <outline text="Periscope Data | Blog" type="rss" xmlUrl="http://periscope.io/blog/atom.xml"></outline>
             <outline text="RubyFlow" type="rss" xmlUrl="http://www.rubyflow.com/rss"></outline>
             <outline text="Salesforce Developers Blog" type="rss" xmlUrl="https://developer.salesforce.com/blogs/feed"></outline>
+            <outline text="Several People Are Coding - Medium" type="rss" xmlUrl="https://slack.engineering/feed"></outline>
+            <outline text="Shopify Engineering - Shopify Engineering" type="rss" xmlUrl="http://engineering.shopify.com/blogs/engineering.atom"></outline>
             <outline text="Shopify Engineering - Shopify Engineering" type="rss" xmlUrl="http://feeds.feedburner.com/shopify-technology"></outline>
             <outline text="Social" type="rss" xmlUrl="http://blog.bufferapp.com/feed"></outline>
             <outline text="SoundCloud Backstage Blog" type="rss" xmlUrl="https://developers.soundcloud.com/blog.rss"></outline>
             <outline text="Stories by Pinterest Engineering on Medium" type="rss" xmlUrl="https://medium.com/feed/@Pinterest_Engineering"></outline>
             <outline text="Stripe Blog" type="rss" xmlUrl="http://stripe.com/blog/feed.rss"></outline>
+            <outline text="tech-at-instacart - Medium" type="rss" xmlUrl="https://tech.instacart.com/feed"></outline>
             <outline text="The Asana Blog" type="rss" xmlUrl="http://blog.asana.com/feed"></outline>
             <outline text="The Box Blog" type="rss" xmlUrl="https://blog.box.com/blog/feed"></outline>
             <outline text="The CircleCI Blog Feed - CircleCI" type="rss" xmlUrl="http://blog.circleci.com/feed"></outline>
@@ -102,11 +116,13 @@
             <outline text="Times Open - Medium" type="rss" xmlUrl="https://open.nytimes.com/feed"></outline>
             <outline text="Uber Engineering Blog" type="rss" xmlUrl="https://eng.uber.com/feed/"></outline>
             <outline text="via @codeship" type="rss" xmlUrl="http://blog.codeship.com/feed/"></outline>
+            <outline text="Xebia Blog" type="rss" xmlUrl="http://blog.xebia.com/feed/"></outline>
             <outline text="Yelp Engineering and Product Blog" type="rss" xmlUrl="https://engineeringblog.yelp.com/feed.xml"></outline>
+            <outline text="Zalando Tech Blog" type="rss" xmlUrl="https://tech.zalando.com/blog/rss-all.xml"></outline>
         </outline>
         <outline text="News">
             <outline text="Advertising Age - Ad Age Homepage" type="rss" xmlUrl="http://adage.com/rss-feed.php?section_id=301"></outline>
-            <outline text="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/"></outline>
+            <outline text="Atlas Obscura - Latest Articles and Places" type="rss" xmlUrl="https://www.atlasobscura.com/feeds/latest"></outline>
             <outline text="CERT Recently Published Vulnerability Notes" type="rss" xmlUrl="http://www.kb.cert.org/vulfeed"></outline>
             <outline text="CNET" type="rss" xmlUrl="https://www.cnet.com/rss/all/"></outline>
             <outline text="Hacker News" type="rss" xmlUrl="http://news.ycombinator.com/rss"></outline>
@@ -118,7 +134,6 @@
             <outline text="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/feed.xml"></outline>
             <outline text="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default?alt=rss"></outline>
             <outline text="The Next Web" type="rss" xmlUrl="http://feeds2.feedburner.com/thenextweb"></outline>
-            <outline text="The Verge -  All Posts" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"></outline>
         </outline>
         <outline text="Podcast">
             <outline text="Accidental Tech Podcast" type="rss" xmlUrl="http://atp.fm/episodes?format=RSS"></outline>
@@ -133,7 +148,6 @@
             <outline text="Fragmented - Android Developer Podcast" type="rss" xmlUrl="http://simplecast.com/podcasts/1684/rss"></outline>
             <outline text="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio"></outline>
             <outline text="How I Built This with Guy Raz" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510313"></outline>
-            <outline text="Indie Hackers Interviews" type="rss" xmlUrl="https://www.indiehackers.com/feed.xml"></outline>
             <outline text="Oracle Developer Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/otnarch2arch"></outline>
             <outline text="React Native Radio" type="rss" xmlUrl="https://feeds.feedwrench.com/react-native-radio.rss"></outline>
             <outline text="Rework" type="rss" xmlUrl="https://rss.art19.com/rework"></outline>
@@ -148,6 +162,10 @@
             <outline text="The Freelancers' Show" type="rss" xmlUrl="https://feeds.feedwrench.com/TheFreelancersShow.rss"></outline>
             <outline text="The Talk Show With John Gruber" type="rss" xmlUrl="https://daringfireball.net/thetalkshow/rss"></outline>
             <outline text="The Vergecast" type="rss" xmlUrl="http://feeds.feedburner.com/thisismynextpodcast"></outline>
+        </outline>
+        <outline text="zNews">
+            <outline text="Articles on Smashing Magazine — For Web Designers And Developers" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"></outline>
+            <outline text="Google Research Blog" type="rss" xmlUrl="http://googleresearch.blogspot.com/atom.xml"></outline>
         </outline>
     </body>
 </opml>
