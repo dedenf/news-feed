@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Feeds</title>
+</head>
+<body>
+<outline type="rss" htmlUrl="https://bpsandpieces.com" xmlUrl="https://bpsandpieces.com/feed/" text="bps and pieces" title="bps and pieces" />
+<outline title="Blog" text="Blog">
+<outline xmlUrl="http://researchpuzzle.com/blog/feed/" text="the research puzzle" type="rss" title="the research puzzle" htmlUrl="https://researchpuzzle.com/blog" />
+<outline xmlUrl="https://systemoverlord.com/atom.xml" htmlUrl="https://systemoverlord.com/atom.xml" type="rss" title="System Overlord" text="System Overlord" />
+<outline text="Wait But Why" type="rss" xmlUrl="https://waitbutwhy.com/feed" title="Wait But Why" htmlUrl="https://waitbutwhy.com/" />
+<outline type="rss" title="Marco.org" text="Marco.org" htmlUrl="https://marco.org/" xmlUrl="http://marco.org/rss" />
+<outline xmlUrl="https://jamesclear.com/feed" htmlUrl="https://jamesclear.com/" text="James Clear" type="rss" title="James Clear" />
+<outline xmlUrl="https://dariusforoux.com/feed/" htmlUrl="https://dariusforoux.com/" title="Darius Foroux" text="Darius Foroux" type="rss" />
+<outline type="rss" htmlUrl="http://resourcemagonline.com" xmlUrl="http://resourcemagonline.com/feed/" text="Resource" title="Resource" />
+<outline htmlUrl="https://www.frugalwoods.com" type="rss" text="Frugalwoods" title="Frugalwoods" xmlUrl="https://feeds.feedburner.com/Frugalwoods" />
+<outline type="rss" title="Longreads" xmlUrl="https://longreads.com/feed/" text="Longreads" htmlUrl="https://longreads.com" />
+<outline title="Raptitude.com" text="Raptitude.com" htmlUrl="https://www.raptitude.com" type="rss" xmlUrl="https://www.raptitude.com/feed/" />
+<outline xmlUrl="https://www.profgalloway.com/feed" text="No Mercy / No Malice" title="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com/" />
+<outline text="Tis But A Moment" xmlUrl="http://tisbutamoment.com/feed/" htmlUrl="https://tisbutamoment.com" title="Tis But A Moment" type="rss" />
+<outline xmlUrl="https://www.dissentmagazine.org/feed" title="Dissent Magazine" text="Dissent Magazine" htmlUrl="https://www.dissentmagazine.org" type="rss" />
+<outline text="Tim Harford" type="rss" htmlUrl="https://timharford.com" title="Tim Harford" xmlUrl="http://timharford.com/feed/" />
+<outline xmlUrl="https://joshwcomeau.com/rss.xml" htmlUrl="https://www.joshwcomeau.com/" text="Josh Comeau's blog" title="Josh Comeau's blog" type="rss" />
+<outline xmlUrl="http://stratechery.com/feed/" text="Stratechery by Ben Thompson" htmlUrl="https://stratechery.com" type="rss" title="Stratechery by Ben Thompson" />
+<outline title="ideas.ted.com" type="rss" htmlUrl="https://ideas.ted.com" text="ideas.ted.com" xmlUrl="https://ideas.ted.com/feed/" />
+<outline title="Runner's Life - Medium" type="rss" xmlUrl="https://medium.com/feed/runners-life" htmlUrl="https://medium.com/runners-life?source=rss----6043466be77a---4" text="Runner's Life - Medium" />
+<outline title="The Baffler" text="The Baffler" type="rss" htmlUrl="https://thebaffler.com" xmlUrl="https://thebaffler.com/feed" />
+<outline text="VeradiVerdict" htmlUrl="https://www.veradiverdict.com" xmlUrl="https://veradiverdict.substack.com/feed/" title="VeradiVerdict" type="rss" />
+<outline title="James Altucher" htmlUrl="https://jamesaltucher.com" xmlUrl="https://jamesaltucher.com/feed/" text="James Altucher" type="rss" />
+<outline xmlUrl="https://lithub.com/feed/" text="Literary Hub" type="rss" htmlUrl="https://lithub.com" title="Literary Hub" />
+<outline type="rss" text="Optimal Living Daily" title="Optimal Living Daily" htmlUrl="https://oldpodcast.com" xmlUrl="https://oldpodcast.com/feed/" />
+<outline type="rss" htmlUrl="https://hhhypergrowth.com/" xmlUrl="https://hhhypergrowth.com/rss/" title="HHHYPERGROWTH" text="HHHYPERGROWTH" />
+<outline text="The Blog Relay" htmlUrl="https://theblogrelay.com/" type="rss" xmlUrl="https://theblogrelay.com/feed/" title="The Blog Relay" />
+</outline>
+<outline text="DevOps" title="DevOps">
+<outline title="DevOps – Information Age" xmlUrl="https://www.information-age.com/topics/devops/feed/" text="DevOps – Information Age" htmlUrl="https://s27389.pcdn.co" type="rss" />
+<outline title="Learn AWS" htmlUrl="https://www.learnaws.org/" xmlUrl="https://www.learnaws.org/feed.xml" type="rss" text="Learn AWS" />
+<outline type="rss" text="The New Stack" title="The New Stack" htmlUrl="https://thenewstack.io" xmlUrl="https://thenewstack.io/feed/" />
+<outline htmlUrl="https://www.lastweekinaws.com/" text="Last Week in AWS" xmlUrl="https://www.lastweekinaws.com/feed/" title="Last Week in AWS" type="rss" />
+</outline>
+<outline title="economics" text="economics">
+<outline title="Coppola Comment" htmlUrl="https://www.coppolacomment.com/" text="Coppola Comment" xmlUrl="https://www.coppolacomment.com/feeds/posts/default" type="rss" />
+<outline xmlUrl="https://econjeff.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="ECONJEFF" htmlUrl="https://econjeff.blogspot.com/" title="ECONJEFF" />
+<outline text="The Psy-Fi Blog" title="The Psy-Fi Blog" htmlUrl="http://www.psyfitec.com/" xmlUrl="https://www.psyfitec.com/feeds/posts/default?alt=rss" type="rss" />
+<outline xmlUrl="https://behavioralinvestor.blogspot.com/feeds/posts/default?alt=rss" title="The Behavioral Investor" text="The Behavioral Investor" type="rss" htmlUrl="https://behavioralinvestor.blogspot.com/" />
+<outline text="Links" title="Links" htmlUrl="https://drodrik.scholar.harvard.edu/links" type="rss" xmlUrl="https://drodrik.scholar.harvard.edu/links.rss" />
+<outline htmlUrl="https://www.seeitmarket.com/" text="See It Market" type="rss" title="See It Market" xmlUrl="https://www.seeitmarket.com/feed/" />
+</outline>
+<outline title="Engineering" text="Engineering">
+<outline htmlUrl="https://medium.com/@OReillyMedia?source=rss-fbfa235a954c------2" type="rss" title="Stories by O'Reilly Media on Medium" xmlUrl="https://medium.com/feed/@OReillyMedia" text="Stories by O'Reilly Media on Medium" />
+<outline htmlUrl="https://medium.com/bbc-design-engineering?source=rss----ccd524e1760a---4" xmlUrl="https://medium.com/feed/bbc-design-engineering" type="rss" text="BBC Product &amp; Technology - Medium" title="BBC Product &amp; Technology - Medium" />
+<outline text="Product at Canva" type="rss" xmlUrl="https://product.canva.com/feed.xml" title="Product at Canva" htmlUrl="https://product.canva.com" />
+<outline type="rss" htmlUrl="https://doordash.engineering" text="doordash.engineering" title="doordash.engineering" xmlUrl="https://doordash.engineering/wp-json/wp/v2/pages/13" />
+<outline xmlUrl="https://www.fairwinds.com/developer-hub/rss.xml" type="rss" text="Developer Hub" title="Developer Hub" htmlUrl="https://www.fairwinds.com/developer-hub" />
+<outline htmlUrl="https://www.overops.com/" text="OverOps" title="OverOps" type="rss" xmlUrl="https://blog.overops.com/feed/" />
+<outline type="rss" htmlUrl="http://lambda-the-ultimate.org" xmlUrl="http://lambda-the-ultimate.org/rss.xml" title="Lambda the Ultimate - Programming Languages Weblog" text="Lambda the Ultimate - Programming Languages Weblog" />
+<outline text="Artsy Engineering" type="rss" title="Artsy Engineering" htmlUrl="https://artsy.github.io/" xmlUrl="https://artsy.github.io/feed" />
+<outline htmlUrl="https://engineering.blogfoster.com/" type="rss" text="Product &amp; Engineering Blog" xmlUrl="https://engineering.blogfoster.com/rss.xml" title="Product &amp; Engineering Blog" />
+<outline type="rss" text="allegro.tech" title="allegro.tech" htmlUrl="https://allegro.tech/" xmlUrl="https://allegro.tech/feed.xml" />
+<outline title="Cloudberry Engineering" htmlUrl="https://cloudberry.engineering/" type="rss" xmlUrl="https://cloudberry.engineering/index.xml" text="Cloudberry Engineering" />
+<outline xmlUrl="https://backtrace.io/feed/" text="Backtrace.io" htmlUrl="https://backtrace.io" type="rss" title="Backtrace.io" />
+<outline title="Affinity - Medium" type="rss" xmlUrl="https://build.affinity.co/feed" htmlUrl="https://build.affinity.co?source=rss----c4f165841679---4" text="Affinity - Medium" />
+<outline text="Comments on: Blog" title="Comments on: Blog" xmlUrl="https://airbrake.io/blog/feed" type="rss" htmlUrl="https://airbrake.io" />
+<outline xmlUrl="https://mlinproduction.com/feed/" htmlUrl="https://mlinproduction.com" title="ML in Production" text="ML in Production" type="rss" />
+<outline type="rss" text="Atlassian Developer Blog" title="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://blog.developer.atlassian.com" />
+<outline title="BlaBlaCar - Medium" text="BlaBlaCar - Medium" htmlUrl="https://medium.com/blablacar-tech?source=rss----26d80095f25c---4" xmlUrl="https://medium.com/feed/blablacar-tech" type="rss" />
+<outline text="Scaleyourapp" title="Scaleyourapp" htmlUrl="https://scaleyourapp.com" xmlUrl="https://www.8bitmen.com/feed/" type="rss" />
+<outline xmlUrl="https://blog.goodaudience.com/feed" type="rss" text="Good Audience - Medium" title="Good Audience - Medium" htmlUrl="https://blog.goodaudience.com?source=rss----cb942d4b5d89---4" />
+<outline type="rss" text="Blog - PagerDuty" htmlUrl="https://www.pagerduty.com/blog/" xmlUrl="https://www.pagerduty.com/blog/feed/" title="Blog - PagerDuty" />
+<outline htmlUrl="https://techbeacon.com/devops/rss.xml" text="TechBeacon" xmlUrl="https://techbeacon.com/devops/rss.xml" type="rss" title="TechBeacon" />
+<outline text="AirPair Software Coding Tutorials &amp; More" type="rss" xmlUrl="https://www.airpair.com/rss" title="AirPair Software Coding Tutorials &amp; More" htmlUrl="https://www.airpair.com" />
+<outline xmlUrl="https://www.fairwinds.com/thoughts/rss.xml" htmlUrl="https://www.fairwinds.com/thoughts" type="rss" text="Thoughts" title="Thoughts" />
+<outline htmlUrl="https://www.theengineeringmanager.com/" title="The Engineering Manager" xmlUrl="https://www.theengineeringmanager.com/feed/" text="The Engineering Manager" type="rss" />
+<outline type="rss" htmlUrl="https://www.azavea.com/blog/category/software-engineering/" xmlUrl="https://www.azavea.com/blog/category/software-engineering/feed/" text="Software Engineering Archives | Azavea" title="Software Engineering Archives | Azavea" />
+<outline htmlUrl="https://www.devopsgroup.com" xmlUrl="https://www.devopsgroup.com/feed/" text="DevOpsGroup" title="DevOpsGroup" type="rss" />
+<outline type="rss" title="Asana Engineering Blog" text="Asana Engineering Blog" xmlUrl="https://blog.asana.com/category/eng/feed/" htmlUrl="https://blog.asana.com" />
+<outline htmlUrl="https://blog.arkency.com/" xmlUrl="https://blog.arkency.com/feed.xml" text="Hi, we're Arkency" title="Hi, we're Arkency" type="rss" />
+<outline type="rss" text="Booking.writes - Medium" title="Booking.writes - Medium" htmlUrl="https://medium.com/booking-writes?source=rss----7b27a3ebfb88---4" xmlUrl="https://medium.com/feed/booking-writes" />
+<outline text="Great Expectations" htmlUrl="https://greatexpectations.io" xmlUrl="https://greatexpectations.io/rss.xml" type="rss" title="Great Expectations" />
+<outline text="Babbel" xmlUrl="https://cms.babbel.news/feed/?post_type=english_edition" type="rss" title="Babbel" htmlUrl="https://www.babbel.com" />
+<outline text="Benchling Engineering - Medium" title="Benchling Engineering - Medium" type="rss" xmlUrl="https://benchling.engineering/feed" htmlUrl="https://benchling.engineering?source=rss----3d4aa8fb07ea---4" />
+<outline htmlUrl="https://tech.buzzfeed.com?source=rss----140b2c7c3466---4" text="BuzzFeed Tech - Medium" title="BuzzFeed Tech - Medium" xmlUrl="https://tech.buzzfeed.com/feed" type="rss" />
+<outline type="rss" text="Capital One Tech - Medium" htmlUrl="https://medium.com/capital-one-tech?source=rss----3db3a67cb648---4" xmlUrl="https://medium.com/feed/capital-one-tech" title="Capital One Tech - Medium" />
+<outline text="CIO and CTO – Information Age" type="rss" title="CIO and CTO – Information Age" htmlUrl="https://s27389.pcdn.co" xmlUrl="https://www.information-age.com/topics/cio-cto/feed/" />
+<outline text="8th Light Blog" title="8th Light Blog" htmlUrl="https://8thlight.com/blog" type="rss" xmlUrl="https://8thlight.com/blog/feed/rss.xml" />
+<outline xmlUrl="https://eng.uber.com/feed/" type="rss" text="Uber Engineering Blog" title="Uber Engineering Blog" htmlUrl="https://eng.uber.com/" />
+<outline type="rss" xmlUrl="https://medium.com/feed/xandr-tech" title="Xandr-Tech - Medium" text="Xandr-Tech - Medium" htmlUrl="https://medium.com/xandr-tech?source=rss----8205519eb4c3---4" />
+<outline type="rss" title="Auth0 Blog" xmlUrl="https://auth0.com/blog/rss.xml" text="Auth0 Blog" htmlUrl="https://auth0.com/blog/" />
+<outline type="rss" htmlUrl="https://www.oreilly.com/radar" xmlUrl="https://www.oreilly.com/radar/feed/index.xml" text="Radar" title="Radar" />
+<outline htmlUrl="https://containerjournal.com/" title="Container Journal" type="rss" text="Container Journal" xmlUrl="https://containerjournal.com/feed/" />
+<outline xmlUrl="https://devops.com/feed/" text="DevOps.com" title="DevOps.com" htmlUrl="https://devops.com/" type="rss" />
+<outline htmlUrl="https://blog.boot.dev/" xmlUrl="https://qvault.io/feed/" type="rss" text="The Boot.dev Blog" title="The Boot.dev Blog" />
+<outline type="rss" text="TechBeacon" title="TechBeacon" htmlUrl="https://techbeacon.com/enterprise-it/rss.xml" xmlUrl="https://techbeacon.com/enterprise-it/rss.xml" />
+<outline text="Letters To A New Developer" type="rss" title="Letters To A New Developer" xmlUrl="https://letterstoanewdeveloper.com/feed/" htmlUrl="https://letterstoanewdeveloper.com" />
+<outline htmlUrl="https://blog.scottlogic.com" type="rss" title="Scott Logic" xmlUrl="https://blog.scottlogic.com/atom.xml" text="Scott Logic" />
+<outline text="Noteworthy - Medium" type="rss" title="Noteworthy - Medium" htmlUrl="https://blog.heyday.xyz?source=rss----7b837cf1fd73---4" xmlUrl="https://blog.usejournal.com/feed" />
+<outline htmlUrl="https://sdtimes.com" xmlUrl="https://sdtimes.com/feed/" title="SD Times" type="rss" text="SD Times" />
+<outline xmlUrl="https://spin.atomicobject.com/feed/" text="Atomic Spin" htmlUrl="https://spin.atomicobject.com" type="rss" title="Atomic Spin" />
+<outline htmlUrl="https://developers.redhat.com/" text="Red Hat Developer" title="Red Hat Developer" xmlUrl="https://developers.redhat.com/blog/feed/" type="rss" />
+<outline type="rss" xmlUrl="https://levelup.gitconnected.com/feed" title="Level Up Coding - Medium" htmlUrl="https://levelup.gitconnected.com?source=rss----5517fd7b58a6---4" text="Level Up Coding - Medium" />
+<outline xmlUrl="https://stackoverflow.blog/feed/" text="Stack Overflow Blog" type="rss" htmlUrl="https://stackoverflow.blog" title="Stack Overflow Blog" />
+<outline type="rss" text="The Enterprisers Project - A CIO Community" title="The Enterprisers Project - A CIO Community" xmlUrl="https://enterprisersproject.com/rss" htmlUrl="https://enterprisersproject.com/" />
+<outline title="Advanced Web Machinery" type="rss" xmlUrl="https://advancedweb.hu/rss.xml" htmlUrl="https://advancedweb.hu" text="Advanced Web Machinery" />
+<outline type="rss" text="LWN.net" xmlUrl="https://lwn.net/headlines/newrss" title="LWN.net" htmlUrl="https://lwn.net" />
+<outline title="JavaScript in Plain English - Medium" text="JavaScript in Plain English - Medium" type="rss" htmlUrl="https://javascript.plainenglish.io?source=rss----4b3a1ed4f11c---4" xmlUrl="https://medium.com/feed/javascript-in-plain-english" />
+<outline title="The Airbnb Tech Blog - Medium" text="The Airbnb Tech Blog - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4" type="rss" />
+<outline title="DigitalOcean Community Tutorials" htmlUrl="https://www.digitalocean.com/community/tutorials" text="DigitalOcean Community Tutorials" type="rss" xmlUrl="https://www.digitalocean.com/community/tutorials/feed" />
+<outline type="rss" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" text="AWS News Blog" title="AWS News Blog" />
+<outline text="Hacker Noon" title="Hacker Noon" type="rss" xmlUrl="https://hackernoon.com/feed" htmlUrl="https://hackernoon.com" />
+<outline htmlUrl="https://blog.avenuecode.com" xmlUrl="https://blog.avenuecode.com/rss.xml" title="Avenue Code Snippets" type="rss" text="Avenue Code Snippets" />
+<outline htmlUrl="https://www.netlify.com/blog/" text="Blog on Netlify: All-in-one platform for automating modern web projects" type="rss" title="Blog on Netlify: All-in-one platform for automating modern web projects" xmlUrl="https://www.netlify.com/blog/index.xml" />
+<outline htmlUrl="https://www.verica.io" text="verica.io" type="rss" title="verica.io" xmlUrl="https://www.verica.io/wp-json/wp/v2/pages/6" />
+</outline>
+<outline title="Finance" text="Finance">
+<outline text="Personal Profitability Podcast" htmlUrl="https://personalprofitability.com/personalprofitabilitypodcast/" title="Personal Profitability Podcast" type="rss" xmlUrl="https://personalprofitability.com/feed/podcast/" />
+<outline xmlUrl="https://thecalminvestor.com/feed/" type="rss" title="The Calm Investor" text="The Calm Investor" htmlUrl="https://thecalminvestor.com" />
+<outline xmlUrl="https://richonmoney.com/feed/" title="Rich on Money" type="rss" text="Rich on Money" htmlUrl="https://richonmoney.com" />
+<outline text="rockstarfinance.com" type="rss" title="rockstarfinance.com" xmlUrl="https://www.rockstarfinance.com/feed/" htmlUrl="/fonts/calibre/regular/Calibre-Regular.ttf" />
+<outline title="Easy Money by Policygenius" type="rss" xmlUrl="https://www.policygenius.com/blog/rss/" htmlUrl="https://www.policygenius.com/blog/" text="Easy Money by Policygenius" />
+<outline xmlUrl="https://adamhgrimes.com/feed/" text="The Blog of Adam H Grimes" type="rss" title="The Blog of Adam H Grimes" htmlUrl="https://adamhgrimes.com/" />
+<outline text="CHRIS BROGAN" title="CHRIS BROGAN" htmlUrl="https://chrisbrogan.com" xmlUrl="http://feedproxy.google.com/chrisbrogandotcom" type="rss" />
+<outline xmlUrl="https://www.blackrockblog.com/feed/" title="BlackRock Blog" text="BlackRock Blog" type="rss" htmlUrl="https://www.blackrockblog.com" />
+<outline htmlUrl="https://thefinancetwins.com" xmlUrl="https://thefinancetwins.com/feed/" title="The Finance Twins" text="The Finance Twins" type="rss" />
+<outline xmlUrl="http://aswathdamodaran.blogspot.com/feeds/posts/default?alt=rss" text="Musings on Markets" type="rss" htmlUrl="https://aswathdamodaran.blogspot.com/" title="Musings on Markets" />
+<outline title="Moriah Chace" xmlUrl="https://ourtable4two.com/feed/" type="rss" text="Moriah Chace" htmlUrl="https://moriahchace.com" />
+<outline title="BehavioralEconomics.com | The BE Hub" htmlUrl="https://www.behavioraleconomics.com/" type="rss" text="BehavioralEconomics.com | The BE Hub" xmlUrl="https://www.behavioraleconomics.com/feed/" />
+<outline type="rss" text="Save – HerMoney" htmlUrl="https://hermoney.com" xmlUrl="https://www.hermoney.com/category/save/feed/" title="Save – HerMoney" />
+<outline title="HumbleDollar" type="rss" htmlUrl="https://humbledollar.com" xmlUrl="https://humbledollar.com/feed/" text="HumbleDollar" />
+<outline xmlUrl="https://humblestudentofthemarkets.blogspot.com/feeds/posts/default" text="Humble Student of the Markets" type="rss" title="Humble Student of the Markets" htmlUrl="http://humblestudentofthemarkets.blogspot.com/" />
+<outline htmlUrl="https://fs.blog/" text="Farnam Street" type="rss" xmlUrl="https://fs.blog/feed/" title="Farnam Street" />
+<outline title="Jeffbullas's Blog" xmlUrl="http://feeds.feedburner.com/JeffbullassBlog" text="Jeffbullas's Blog" htmlUrl="https://www.jeffbullas.com" type="rss" />
+<outline xmlUrl="http://www.marctomarket.com/feeds/posts/default" htmlUrl="http://www.marctomarket.com/" type="rss" text="Marc to Market" title="Marc to Market" />
+<outline htmlUrl="https://www.kiplinger.com/feed/all" text="Kiplinger" xmlUrl="https://www.kiplinger.com/about/rss/kiplinger.rss" type="rss" title="Kiplinger" />
+<outline htmlUrl="https://petetheplanner.com/blog/" xmlUrl="https://petetheplanner.com/feed/" text="Pete the Planner®" type="rss" title="Pete the Planner®" />
+<outline xmlUrl="https://investorjunkie.com/feed/" htmlUrl="https://investorjunkie.com" type="rss" title="Investor Junkie" text="Investor Junkie" />
+<outline htmlUrl="https://obliviousinvestor.com" text="Oblivious Investor" title="Oblivious Investor" type="rss" xmlUrl="https://obliviousinvestor.com/feed/" />
+<outline title="Equitable Growth" text="Equitable Growth" htmlUrl="https://equitablegrowth.org" xmlUrl="https://equitablegrowth.org/feed/" type="rss" />
+<outline type="rss" xmlUrl="http://feeds.feedburner.com/RetireBy40" text="Retire by 40" title="Retire by 40" htmlUrl="https://retireby40.org/" />
+<outline text="My Money Wizard" htmlUrl="https://mymoneywizard.com" type="rss" xmlUrl="https://mymoneywizard.com/feed/" title="My Money Wizard" />
+<outline type="rss" htmlUrl="https://www.marieforleo.com" xmlUrl="http://feeds.feedburner.com/marieforleo/NQhf" title="marieforleo.com" text="marieforleo.com" />
+<outline htmlUrl="https://investedwallet.com" xmlUrl="https://investedwallet.com/feed/" type="rss" text="Invested Wallet" title="Invested Wallet" />
+<outline htmlUrl="https://follow.it/pragcap" xmlUrl="https://www.pragcap.com/feed/" title="Pragmatic Capitalism" type="rss" text="Pragmatic Capitalism" />
+<outline text="The Penny Hoarder" xmlUrl="https://www.thepennyhoarder.com/feed/" htmlUrl="https://www.thepennyhoarder.com/feed/" type="rss" title="The Penny Hoarder" />
+<outline htmlUrl="https://ritholtz.com" title="The Big Picture" xmlUrl="http://ritholtz.com/feed/" text="The Big Picture" type="rss" />
+<outline title="Nerd's Eye View | Kitces.com" htmlUrl="https://www.kitces.com" xmlUrl="http://feeds.kitces.com/KitcesNerdsEyeView" type="rss" text="Nerd's Eye View | Kitces.com" />
+<outline text="NerdWallet" type="rss" htmlUrl="https://www.nerdwallet.com/blog" xmlUrl="https://www.nerdwallet.com/blog/feed/" title="NerdWallet" />
+<outline xmlUrl="https://christianpf.com/feed/" title="SeedTime" type="rss" htmlUrl="https://seedtime.com" text="SeedTime" />
+<outline text="All Articles on Seeking Alpha" title="All Articles on Seeking Alpha" xmlUrl="https://seekingalpha.com/feed.xml" htmlUrl="https://seekingalpha.com" type="rss" />
+<outline type="rss" title="The Capital Spectator" text="The Capital Spectator" xmlUrl="http://www.capitalspectator.com/feed/" htmlUrl="https://www.capitalspectator.com" />
+<outline xmlUrl="https://www.valuewalk.com/feed/" title="ValueWalk" text="ValueWalk" htmlUrl="https://www.valuewalk.com" type="rss" />
+<outline htmlUrl="https://www.advisorperspectives.com/articles?utm_source=articles_feed&amp;utm_medium=rss&amp;utm_campaign=feed_link" title="Articles - Advisor Perspectives" type="rss" xmlUrl="https://www.advisorperspectives.com/commentaries/articles.rss" text="Articles - Advisor Perspectives" />
+<outline htmlUrl="https://www.etftrends.com" xmlUrl="https://www.etftrends.com/feed/" type="rss" title="ETF Trends" text="ETF Trends" />
+<outline title="Alpha Architect" text="Alpha Architect" type="rss" xmlUrl="https://alphaarchitect.com/feed/" htmlUrl="https://alphaarchitect.com/" />
+<outline title="Abnormal Returns" xmlUrl="https://abnormalreturns.com/feed/" type="rss" text="Abnormal Returns" htmlUrl="https://abnormalreturns.com" />
+<outline xmlUrl="https://www.rogerwhitney.com/blog?format=RSS" htmlUrl="https://www.rogerwhitney.com/blog/" title="The Show - Roger Whitney" text="The Show - Roger Whitney" type="rss" />
+<outline xmlUrl="https://twocents.lifehacker.com/rss" type="rss" text="Lifehacker" title="Lifehacker" htmlUrl="https://lifehacker.com" />
+<outline type="rss" htmlUrl="https://www.fromfrugaltofree.com/" text="From Frugal to Free" title="From Frugal to Free" xmlUrl="https://www.fromfrugaltofree.com/feed/" />
+<outline xmlUrl="https://www.gurufocus.com/rss.php" title="GuruFocus Logo" type="rss" text="GuruFocus Logo" htmlUrl="http://www.gurufocus.com/" />
+<outline xmlUrl="https://sentimentrader.com/feed/" text="SentimenTrader.com Blog" type="rss" title="SentimenTrader.com Blog" htmlUrl="https://sentimentrader.com/blog/" />
+<outline type="rss" htmlUrl="https://www.allthingsfinance.net/" text="All Things Finance" xmlUrl="https://feeds.feedburner.com/allthingsfin" title="All Things Finance" />
+<outline xmlUrl="https://mishtalk.com/.rss/excerpt/" text="Mish Talk - Global Economic Trend Analysis" type="rss" htmlUrl="https://mishtalk.com" title="Mish Talk - Global Economic Trend Analysis" />
+<outline xmlUrl="https://www.crossingwallstreet.com/feed" htmlUrl="http://www.crossingwallstreet.com" title="Crossing Wall Street" type="rss" text="Crossing Wall Street" />
+<outline xmlUrl="https://www.investmentnews.com/wp-json/wp/v2/pages/81472" title="investmentnews.com" type="rss" text="investmentnews.com" htmlUrl="https://www.investmentnews.com" />
+</outline>
+<outline text="Finance Blogger" title="Finance Blogger">
+<outline title="Fiery Millennials" text="Fiery Millennials" xmlUrl="https://www.fierymillennials.com/feed/" type="rss" htmlUrl="https://www.fierymillennials.com" />
+<outline type="rss" xmlUrl="https://www.marriagekidsandmoney.com/feed/" htmlUrl="https://marriagekidsandmoney.com/" text="Marriage Kids &amp; Money" title="Marriage Kids &amp; Money" />
+<outline xmlUrl="https://drbreatheeasyfinance.com/feed/" title="Dr. Breathe Easy Finance" htmlUrl="https://drbreatheeasyfinance.com/" type="rss" text="Dr. Breathe Easy Finance" />
+<outline htmlUrl="http://blog.yardeni.com/" title="Dr. Ed's Blog" xmlUrl="http://blog.yardeni.com/feeds/posts/default" text="Dr. Ed's Blog" type="rss" />
+<outline xmlUrl="https://www.kassandradasent.com/feed/" type="rss" htmlUrl="https://www.kassandradasent.com" text="Kassandra Dasent" title="Kassandra Dasent" />
+<outline title="Rethink the Rat Race" xmlUrl="https://rethinktheratrace.com/feed/" type="rss" htmlUrl="https://rethinktheratrace.com" text="Rethink the Rat Race" />
+<outline text="Miranda Marquit" htmlUrl="https://mirandamarquit.com/archive/" title="Miranda Marquit" type="rss" xmlUrl="https://mirandamarquit.com/feed/" />
+<outline type="rss" title="The Money Guy Show | Investing, Tax, Estate, Retirement, Insurance, Spending, Saving, and Wealth Building Advice" text="The Money Guy Show | Investing, Tax, Estate, Retirement, Insurance, Spending, Saving, and Wealth Building Advice" xmlUrl="https://www.moneyguy.com/feed/" htmlUrl="https://moneyguy.com" />
+<outline htmlUrl="https://minafi.com" title="Minafi" type="rss" text="Minafi" xmlUrl="https://minafi.com/feed" />
+<outline xmlUrl="https://www.simplyinvesting.com/blog.xml" text="Simply Investing" type="rss" htmlUrl="https://www.simplyinvesting.com" title="Simply Investing" />
+<outline htmlUrl="https://www.moneyaftergraduation.com/" xmlUrl="https://www.moneyaftergraduation.com/feed/" type="rss" text="Money After Graduation" title="Money After Graduation" />
+<outline htmlUrl="https://zajacgrp.com/" type="rss" title="Zajac Group" text="Zajac Group" xmlUrl="https://www.danielzajac.com/feed/" />
+<outline xmlUrl="http://feeds.feedburner.com/BudgetAndTheBeach" htmlUrl="https://budgetandthebeach.com" type="rss" title="Budget and the Beach" text="Budget and the Beach" />
+<outline title="Educator FI" xmlUrl="https://educatorfi.com/feed/" type="rss" htmlUrl="https://educatorfi.com/" text="Educator FI" />
+<outline text="Mr. Money Mustache" htmlUrl="https://www.mrmoneymustache.com" title="Mr. Money Mustache" type="rss" xmlUrl="http://feeds.feedburner.com/MrMoneyMustache" />
+<outline text="Wealth Pilgrim" title="Wealth Pilgrim" type="rss" xmlUrl="https://wealthpilgrim.com/feed/" htmlUrl="https://wealthpilgrim.com/" />
+<outline title="Getting Your Financial Ducks in a Row Podcast" text="Getting Your Financial Ducks in a Row Podcast" htmlUrl="https://financialducksinarow.com" type="rss" xmlUrl="https://financialducksinarow.com/feed/podcast/" />
+<outline title="Investing Caffeine" text="Investing Caffeine" htmlUrl="https://investingcaffeine.com" type="rss" xmlUrl="https://investingcaffeine.com/feed/" />
+<outline type="rss" text="Root of Good" title="Root of Good" htmlUrl="https://rootofgood.com" xmlUrl="https://rootofgood.com/feed/" />
+<outline htmlUrl="https://momanddadmoney.com" title="Mom and Dad Money" type="rss" xmlUrl="https://momanddadmoney.com/feed/" text="Mom and Dad Money" />
+<outline title="DollarSprout" type="rss" htmlUrl="https://dollarsprout.com/" text="DollarSprout" xmlUrl="https://www.dollarsprout.com/feed/" />
+<outline title="rich &amp; REGULAR" type="rss" htmlUrl="https://richandregular.com/" text="rich &amp; REGULAR" xmlUrl="https://richandregular.com/feed/" />
+<outline text="Cashflow Cop" title="Cashflow Cop" xmlUrl="https://cashflowcop.com/feed/" type="rss" htmlUrl="https://cashflowcop.com" />
+<outline title="JLCollinsnh" htmlUrl="https://jlcollinsnh.com/" type="rss" xmlUrl="https://jlcollinsnh.com/feed/" text="JLCollinsnh" />
+<outline text="MACKEY" type="rss" htmlUrl="https://mackeyadvisors.com" title="MACKEY" xmlUrl="https://mackeyadvisors.com/feed/" />
+<outline type="rss" xmlUrl="https://davegiles.blogspot.com/feeds/posts/default" title="Econometrics Beat: Dave Giles' Blog" text="Econometrics Beat: Dave Giles' Blog" htmlUrl="http://davegiles.blogspot.com/" />
+<outline text="Workable Wealth" title="Workable Wealth" xmlUrl="https://workablewealth.com/feed/" type="rss" htmlUrl="https://workablewealth.com" />
+<outline title="Abandoned Cubicle" text="Abandoned Cubicle" type="rss" htmlUrl="https://www.abandonedcubicle.com" xmlUrl="https://www.abandonedcubicle.com/feed/" />
+<outline title="Social Security Intelligence" text="Social Security Intelligence" type="rss" xmlUrl="https://socialsecurityintelligence.com/feed/" htmlUrl="https://www.socialsecurityintelligence.com" />
+<outline type="rss" text="Sizemore Insights" htmlUrl="https://charlessizemore.com/" title="Sizemore Insights" xmlUrl="https://charlessizemore.com/feed/" />
+<outline text="Cash Money Life | Personal Finance, Investing, &amp; Career" type="rss" title="Cash Money Life | Personal Finance, Investing, &amp; Career" htmlUrl="https://cashmoneylife.com/" xmlUrl="https://cashmoneylife.com/rss" />
+<outline xmlUrl="http://feeds.feedburner.com/GenerationXFinance" text="Gen X Finance" title="Gen X Finance" type="rss" htmlUrl="https://genxfinance.com/" />
+<outline xmlUrl="https://chiefmomofficer.org/feed/" htmlUrl="https://chiefmomofficer.org/" type="rss" text="Chief Mom Officer" title="Chief Mom Officer" />
+<outline title="athrasher.com" type="rss" htmlUrl="https://www.athrasher.com" xmlUrl="http://www.athrasher.com/feed/" text="athrasher.com" />
+<outline text="JoshOvermyer.com" xmlUrl="https://joshovermyer.com/feed/" title="JoshOvermyer.com" type="rss" htmlUrl="https://joshovermyer.com" />
+<outline title="Our Next Life" text="Our Next Life" htmlUrl="https://ournextlife.com" type="rss" xmlUrl="https://ournextlife.com/feed/" />
+<outline title="Yardley Wealth Management, LLC" text="Yardley Wealth Management, LLC" type="rss" htmlUrl="https://yardleywealth.net" xmlUrl="https://feeds.feedburner.com/YardleyWealthManagementLlc" />
+<outline htmlUrl="https://familymoneyadventure.com/" title="Family Money Adventure" text="Family Money Adventure" type="rss" xmlUrl="https://www.familymoneyadventure.com/feed/" />
+<outline title="Backpack Finance" htmlUrl="https://backpackfinance.com/" xmlUrl="https://backpackfinance.com/feed/" text="Backpack Finance" type="rss" />
+<outline type="rss" htmlUrl="https://genyplanning.com/" text="Gen Y Planning" title="Gen Y Planning" xmlUrl="https://genyplanning.com/feed/" />
+<outline htmlUrl="https://financialmechanic.com/" text="Financial Mechanic" title="Financial Mechanic" type="rss" xmlUrl="https://financialmechanic.com/feed/" />
+<outline htmlUrl="https://moneydoneright.com/" xmlUrl="https://moneydoneright.com/feed/" text="Money Done Right" title="Money Done Right" type="rss" />
+<outline title="Bravely Go" text="Bravely Go" htmlUrl="https://bravelygo.co/" type="rss" xmlUrl="https://www.bravelygo.co/feed/" />
+<outline type="rss" text="Bitches Get Riches" htmlUrl="https://www.bitchesgetriches.com/" title="Bitches Get Riches" xmlUrl="http://www.bitchesgetriches.com/feed/" />
+<outline type="rss" xmlUrl="https://thechicagofinancialplanner.com/feed/" text="The Chicago Financial Planner" htmlUrl="https://thechicagofinancialplanner.com/" title="The Chicago Financial Planner" />
+<outline title="compoundadvisors.com" type="rss" text="compoundadvisors.com" htmlUrl="https://compoundadvisors.com" xmlUrl="https://compoundadvisors.com/wp-json/wp/v2/pages/21" />
+<outline htmlUrl="https://darrowwealthmanagement.com/" xmlUrl="https://darrowwealthmanagement.com/feed/" text="Darrow Wealth Management" type="rss" title="Darrow Wealth Management" />
+<outline text="The Retirement Manifesto" type="rss" htmlUrl="https://www.theretirementmanifesto.com/" title="The Retirement Manifesto" xmlUrl="https://www.theretirementmanifesto.com/feed/" />
+<outline xmlUrl="http://feeds.feedburner.com/getrichslowly" text="Get Rich Slowly" type="rss" title="Get Rich Slowly" htmlUrl="https://www.getrichslowly.org" />
+<outline title="Think Save Retire" htmlUrl="https://thinksaveretire.com/" type="rss" xmlUrl="https://thinksaveretire.com/feed" text="Think Save Retire" />
+<outline type="rss" text="Tread Lightly, Retire Early" xmlUrl="https://treadlightlyretireearly.com/feed/" htmlUrl="https://treadlightlyretireearly.com/" title="Tread Lightly, Retire Early" />
+<outline htmlUrl="https://smartmoneymamas.com" type="rss" text="Smart Money Mamas" xmlUrl="https://smartmoneymamas.com/feed/" title="Smart Money Mamas" />
+<outline type="rss" text="Done by Forty" htmlUrl="https://www.donebyforty.com/" xmlUrl="https://www.donebyforty.com/feeds/posts/default?alt=rss" title="Done by Forty" />
+<outline text="The Irrelevant Investor" type="rss" xmlUrl="https://theirrelevantinvestor.com/feed/" title="The Irrelevant Investor" htmlUrl="https://theirrelevantinvestor.com" />
+<outline text="Dr Goh-FIRE &amp; Life Journey!" title="Dr Goh-FIRE &amp; Life Journey!" type="rss" htmlUrl="https://drgohhk.com/" xmlUrl="https://drgohhk.com/feed/" />
+<outline xmlUrl="https://millennialmoneyman.com/feed/" type="rss" text="Millennial Money Man" htmlUrl="https://millennialmoneyman.com/" title="Millennial Money Man" />
+<outline htmlUrl="/" xmlUrl="https://seputarfinansial.com/feed/" text="Seputar Finansial" title="Seputar Finansial" type="rss" />
+<outline htmlUrl="https://www.1500days.com/" title="1500 Days to Freedom" type="rss" xmlUrl="https://www.1500days.com/feed/" text="1500 Days to Freedom" />
+<outline type="rss" htmlUrl="https://www.gocurrycracker.com" xmlUrl="https://www.gocurrycracker.com/feed/" text="Go Curry Cracker!" title="Go Curry Cracker!" />
+<outline title="Dollarsanity" text="Dollarsanity" htmlUrl="https://dollarsanity.com/" type="rss" xmlUrl="https://dollarsanity.com/feed/" />
+<outline type="rss" htmlUrl="https://accidentalfire.com/" xmlUrl="https://accidentalfire.com/feed/" text="Accidental Fire" title="Accidental Fire" />
+<outline type="rss" text="Route to Retire" title="Route to Retire" xmlUrl="https://www.routetoretire.com/feed/" htmlUrl="https://www.routetoretire.com" />
+<outline text="Retire by 40" htmlUrl="https://retireby40.org/" title="Retire by 40" xmlUrl="https://retireby40.org/feed/" type="rss" />
+<outline type="rss" title="Afford Anything" text="Afford Anything" xmlUrl="http://feeds.feedburner.com/AffordAnythingFeed" htmlUrl="https://affordanything.com" />
+<outline text="Millennial Revolution" type="rss" title="Millennial Revolution" htmlUrl="https://www.millennial-revolution.com" xmlUrl="https://www.millennial-revolution.com/feed/" />
+<outline title="The Fioneers" xmlUrl="https://thefioneers.com/feed/" text="The Fioneers" type="rss" htmlUrl="https://thefioneers.com/" />
+<outline text="Dividend Power" title="Dividend Power" type="rss" htmlUrl="https://www.dividendpower.org/" xmlUrl="https://www.dividendpower.org/feed/" />
+<outline xmlUrl="https://mixedupmoney.com/blog?format=rss" type="rss" text="Mixed Up Money - Mixed Up Money" title="Mixed Up Money - Mixed Up Money" htmlUrl="https://mixedupmoney.com/blog/" />
+<outline text="MapleMoney" type="rss" htmlUrl="https://maplemoney.com" title="MapleMoney" xmlUrl="https://maplemoney.com/feed/" />
+<outline htmlUrl="https://www.safalniveshak.com/" text="Safal Niveshak" type="rss" title="Safal Niveshak" xmlUrl="https://www.safalniveshak.com/feed/" />
+<outline xmlUrl="http://feeds2.feedburner.com/budgetsaresexy" text="Budgets Are Sexy" title="Budgets Are Sexy" htmlUrl="https://budgetsaresexy.com/" type="rss" />
+<outline type="rss" xmlUrl="https://www.greaterfool.ca/feed/" htmlUrl="https://www.greaterfool.ca" title="Greater Fool – Authored by Garth Turner – The Troubled Future of Real Estate" text="Greater Fool – Authored by Garth Turner – The Troubled Future of Real Estate" />
+<outline type="rss" xmlUrl="http://richersoul.com/feed/podcast/" text="richersoul.com" htmlUrl="http://richersoul.com" title="richersoul.com" />
+<outline text="The Poor Swiss" title="The Poor Swiss" htmlUrl="https://thepoorswiss.com" type="rss" xmlUrl="https://thepoorswiss.com/feed/" />
+<outline title="Mr. Tako Escapes" text="Mr. Tako Escapes" type="rss" xmlUrl="https://www.mrtakoescapes.com/feed/" htmlUrl="https://www.mrtakoescapes.com" />
+<outline htmlUrl="https://thereformedbroker.com" type="rss" xmlUrl="https://thereformedbroker.com/feed/" text="The Reformed Broker" title="The Reformed Broker" />
+<outline type="rss" xmlUrl="https://ofdollarsanddata.com/feed/" htmlUrl="https://ofdollarsanddata.com" text="Of Dollars And Data" title="Of Dollars And Data" />
+<outline type="rss" xmlUrl="https://www.makingsenseofcents.com/feed" title="Making Sense Of Cents" htmlUrl="https://www.makingsenseofcents.com/" text="Making Sense Of Cents" />
+<outline text="MrFireStation" type="rss" htmlUrl="https://mrfirestation.com" xmlUrl="https://mrfirestation.com/feed/" title="MrFireStation" />
+<outline text="Women Who Money" title="Women Who Money" type="rss" xmlUrl="https://womenwhomoney.com/feed/" htmlUrl="https://womenwhomoney.com/" />
+<outline type="rss" title="Apex Money" text="Apex Money" htmlUrl="https://apexmoney.com/" xmlUrl="https://apexmoney.com/feed/" />
+<outline title="Validea's Guru Investor Blog" type="rss" htmlUrl="https://blog.validea.com" xmlUrl="https://blog.validea.com/feed/" text="Validea's Guru Investor Blog" />
+<outline text="Can I Retire Yet?" htmlUrl="https://www.caniretireyet.com/" type="rss" xmlUrl="https://www.caniretireyet.com/feed/" title="Can I Retire Yet?" />
+<outline title="Journey To Launch" type="rss" text="Journey To Launch" htmlUrl="https://journeytolaunch.com" xmlUrl="https://www.journeytolaunch.com/feed/" />
+<outline type="rss" title="DataDrivenInvestor" text="DataDrivenInvestor" htmlUrl="https://www.datadriveninvestor.com" xmlUrl="https://www.datadriveninvestor.com/feed/" />
+<outline title="A Teachable Moment" type="rss" text="A Teachable Moment" htmlUrl="https://tonyisola.com" xmlUrl="https://tonyisola.com/feed/" />
+<outline htmlUrl="https://www.clevergirlfinance.com/" xmlUrl="https://www.clevergirlfinance.com/feed/" text="Clever Girl Finance" title="Clever Girl Finance" type="rss" />
+<outline text="The College Investor" title="The College Investor" htmlUrl="https://thecollegeinvestor.com" type="rss" xmlUrl="https://thecollegeinvestor.com/feed/" />
+<outline title="Early Retirement Extreme" htmlUrl="https://earlyretirementextreme.com" xmlUrl="http://earlyretirementextreme.com/feed/atom" type="rss" text="Early Retirement Extreme" />
+<outline htmlUrl="https://arrestyourdebt.com" xmlUrl="https://arrestyourdebt.com/feed/" text="Arrest Your Debt" type="rss" title="Arrest Your Debt" />
+<outline title="Living With Money" htmlUrl="https://livingwithmoney.com/" text="Living With Money" type="rss" xmlUrl="https://livingwithmoney.com/feed/" />
+<outline xmlUrl="https://wealthcareforwomen.com/feed/" text="Wealthcare for Women" title="Wealthcare for Women" type="rss" htmlUrl="https://wealthcareforwomen.com" />
+<outline text="Couch Potato Investing" type="rss" htmlUrl="https://couchpotatoinvesting.com/" title="Couch Potato Investing" xmlUrl="https://couchpotatoinvesting.com/feed/" />
+<outline xmlUrl="https://earlyretirementnow.com/feed/" htmlUrl="https://earlyretirementnow.com" type="rss" text="Early Retirement Now" title="Early Retirement Now" />
+<outline text="Enso Finance" title="Enso Finance" type="rss" xmlUrl="https://ensofinance.blog/feed/" htmlUrl="https://ensofinance.blog" />
+<outline htmlUrl="https://www.kitces.com" title="Nerd's Eye View | Kitces.com" text="Nerd's Eye View | Kitces.com" type="rss" xmlUrl="https://www.kitces.com/blog/category/12-weekend-reading/feed/" />
+<outline htmlUrl="https://www.tictoclife.com/" type="rss" xmlUrl="https://www.tictoclife.com/feed/" text="TicTocLife" title="TicTocLife" />
+<outline title="The Aleph Blog" xmlUrl="https://alephblog.com/feed/" type="rss" htmlUrl="https://alephblog.com" text="The Aleph Blog" />
+<outline type="rss" xmlUrl="https://contrarianoutlook.com/feed/" text="Contrarian Outlook" htmlUrl="https://contrarianoutlook.com" title="Contrarian Outlook" />
+<outline text="A Purple Life" type="rss" xmlUrl="https://apurplelife.com/feed/" htmlUrl="https://apurplelife.com" title="A Purple Life" />
+<outline text="Your Richest Life" htmlUrl="https://yourrichestlifeplanning.com/" title="Your Richest Life" xmlUrl="https://yourrichestlifeplanning.com/feed/" type="rss" />
+<outline htmlUrl="https://wallethacks.com/" text="Best Wallet Hacks" xmlUrl="https://wallethacks.com/feed/" type="rss" title="Best Wallet Hacks" />
+<outline htmlUrl="https://blairbellecurve.com" xmlUrl="https://blairbellecurve.com/feed/" text="The Belle Curve" type="rss" title="The Belle Curve" />
+<outline xmlUrl="https://feeds2.feedburner.com/mullooly/fIoR" title="Mullooly Asset Management" type="rss" htmlUrl="https://mullooly.net" text="Mullooly Asset Management" />
+<outline type="rss" text="A Wealth of Common Sense" htmlUrl="https://awealthofcommonsense.com" title="A Wealth of Common Sense" xmlUrl="https://awealthofcommonsense.com/feed/" />
+<outline xmlUrl="https://paychecksandbalances.com/feed/" text="findmorebalance.com" title="findmorebalance.com" type="rss" htmlUrl="https://findmorebalance.com/" />
+<outline htmlUrl="https://www.financialsamurai.com/" text="Financial Samurai" title="Financial Samurai" type="rss" xmlUrl="https://www.financialsamurai.com/feed/" />
+<outline text="The Show - Roger Whitney" title="The Show - Roger Whitney" htmlUrl="https://www.rogerwhitney.com/blog/" type="rss" xmlUrl="https://www.rogerwhitney.com/blog?format=rss" />
+<outline htmlUrl="https://shepicksuppennies.com/" text="She Picks Up Pennies" title="She Picks Up Pennies" type="rss" xmlUrl="https://shepicksuppennies.com/feed/" />
+<outline htmlUrl="https://www.whitecoatinvestor.com/" xmlUrl="https://www.whitecoatinvestor.com/feed" text="The White Coat Investor – Investing &amp; Personal Finance for Doctors" title="The White Coat Investor – Investing &amp; Personal Finance for Doctors" type="rss" />
+<outline text="Novel Investor » Feed" htmlUrl="https://novelinvestor.com" xmlUrl="https://novelinvestor.com/feed/" title="Novel Investor » Feed" type="rss" />
+<outline xmlUrl="https://www.whitecoatinvestor.com/wp-json/wp/v2/pages/9645" htmlUrl="https://www.whitecoatinvestor.com" title="whitecoatinvestor.com" type="rss" text="whitecoatinvestor.com" />
+<outline htmlUrl="https://thephysicianphilosopher.com/" xmlUrl="https://thephysicianphilosopher.com/feed/" title="The Physician Philosopher" text="The Physician Philosopher" type="rss" />
+<outline xmlUrl="https://softwarestackinvesting.com/feed/" htmlUrl="https://softwarestackinvesting.com" title="Software Stack Investing" type="rss" text="Software Stack Investing" />
+<outline title="therethinkgroup.net" xmlUrl="https://therethinkgroup.net/wp-json/wp/v2/pages/9822" type="rss" text="therethinkgroup.net" htmlUrl="https://therethinkgroup.net" />
+<outline xmlUrl="https://www.investingparexc.com/feed/" title="Investing Par Excellence" text="Investing Par Excellence" htmlUrl="https://www.investingparexc.com" type="rss" />
+<outline text="QuantPedia" htmlUrl="https://quantpedia.com" xmlUrl="https://quantpedia.com/feed/" type="rss" title="QuantPedia" />
+<outline title="value and opportunity" type="rss" htmlUrl="https://valueandopportunity.com" xmlUrl="https://valueandopportunity.com/feed/" text="value and opportunity" />
+<outline type="rss" htmlUrl="https://theundercoverfundmanager.com" xmlUrl="https://theundercoverfundmanager.com/feed/" text="The undercover fund manager" title="The undercover fund manager" />
+<outline type="rss" htmlUrl="https://www.myownadvisor.ca/" xmlUrl="https://www.myownadvisor.ca/feed/" title="My Own Advisor" text="My Own Advisor" />
+<outline title="Mouthy Money" htmlUrl="https://www.mouthymoney.co.uk" xmlUrl="https://www.mouthymoney.co.uk/feed/" text="Mouthy Money" type="rss" />
+<outline type="rss" xmlUrl="https://www.cashflowsandportfolios.com/feed/" text="Cashflows and Portfolios" title="Cashflows and Portfolios" htmlUrl="https://www.cashflowsandportfolios.com/" />
+<outline xmlUrl="https://fortunefinancialadvisors.com/feed/" type="rss" title="Fortune Financial Advisors" htmlUrl="https://fortunefinancialadvisors.com/" text="Fortune Financial Advisors" />
+<outline text="25iq" xmlUrl="https://25iq.com/feed/" type="rss" title="25iq" htmlUrl="https://25iq.com" />
+<outline type="rss" htmlUrl="https://behaviouralinvestment.com" xmlUrl="https://behaviouralinvestment.com/feed/" title="Behavioural Investment" text="Behavioural Investment" />
+<outline htmlUrl="https://www.fool.com/allstarmoney" title="All-Star Money" text="All-Star Money" type="rss" xmlUrl="https://www.fool.com/allstarmoney/feed/" />
+<outline title="The Finance Buff" type="rss" text="The Finance Buff" htmlUrl="https://thefinancebuff.com" xmlUrl="https://thefinancebuff.com/feed" />
+<outline text="Occam Investing" htmlUrl="https://occaminvesting.co.uk" xmlUrl="https://occaminvesting.co.uk/feed/" title="Occam Investing" type="rss" />
+<outline type="rss" xmlUrl="https://spbrunner3.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://spbrunner3.blogspot.com/" text="Investing, Economics Mostly" title="Investing, Economics Mostly" />
+<outline text="Dividend Growth Stocks" xmlUrl="https://www.dividend-growth-stocks.com/feeds/posts/default?alt=rss" title="Dividend Growth Stocks" type="rss" htmlUrl="http://www.dividend-growth-stocks.com/" />
+<outline type="rss" text="Million Dollar Journey" title="Million Dollar Journey" htmlUrl="https://milliondollarjourney.com" xmlUrl="https://milliondollarjourney.com/feed" />
+<outline text="My Financial Shape" title="My Financial Shape" type="rss" xmlUrl="https://www.myfinancialshape.com/feed/" htmlUrl="https://www.myfinancialshape.com" />
+<outline type="rss" htmlUrl="https://youngandtheinvested.com" xmlUrl="https://youngandtheinvested.com/feed/" text="Young and the Invested" title="Young and the Invested" />
+<outline xmlUrl="https://managingfi.com/feed/" htmlUrl="https://managingfi.com/" text="Managing FI" type="rss" title="Managing FI" />
+<outline htmlUrl="https://goodlifebetter.com" xmlUrl="https://goodlifebetter.com/feed/" text="Good Life. Better." type="rss" title="Good Life. Better." />
+<outline text="Money Flamingo – Australian FIRE &amp; Lifestyle Blog" type="rss" title="Money Flamingo – Australian FIRE &amp; Lifestyle Blog" htmlUrl="https://www.moneyflamingo.com/" xmlUrl="https://www.moneyflamingo.com/feed/" />
+<outline title="phroogal Financial Wellness" htmlUrl="https://www.phroogal.com/" text="phroogal Financial Wellness" type="rss" xmlUrl="https://www.phroogal.com/feed/" />
+<outline htmlUrl="https://snippet.finance" title="Snippet Finance" text="Snippet Finance" type="rss" xmlUrl="https://snippet.finance/feed/" />
+<outline htmlUrl="https://fourpillarfreedom.com" xmlUrl="https://fourpillarfreedom.com/feed/" title="Four Pillar Freedom" text="Four Pillar Freedom" type="rss" />
+<outline text="breakingthemarket.com" type="rss" xmlUrl="https://breakingthemarket.com/feed/" htmlUrl="https://breakingthemarket.com/" title="breakingthemarket.com" />
+</outline>
+<outline title="Finance News" text="Finance News">
+<outline text="Morningstar Blog" title="Morningstar Blog" htmlUrl="https://www.morningstar.com/blog" xmlUrl="https://www.morningstar.com/blog/rss" type="rss" />
+<outline title="Bason Asset Management" xmlUrl="https://basonasset.com/feed/" type="rss" text="Bason Asset Management" htmlUrl="https://basonasset.com" />
+<outline xmlUrl="https://www.nakedcapitalism.com/feed" htmlUrl="https://www.nakedcapitalism.com" title="naked capitalism" text="naked capitalism" type="rss" />
+<outline type="rss" xmlUrl="https://247wallst.com/feed/" title="24/7 Wall St." text="24/7 Wall St." htmlUrl="https://247wallst.com" />
+<outline type="rss" text="| InvestorPlace" title="| InvestorPlace" htmlUrl="https://investorplace.com/" xmlUrl="https://investorplace.com/feed/" />
+<outline title="Dealbreaker" htmlUrl="https://dealbreaker.com" text="Dealbreaker" xmlUrl="https://dealbreaker.com/.rss/full/" type="rss" />
+</outline>
+<outline text="Finance Newsletter" title="Finance Newsletter">
+<outline htmlUrl="https://valueinvestingworld.substack.com" type="rss" text="Value Investing World" title="Value Investing World" xmlUrl="https://valueinvestingworld.substack.com/feed/" />
+<outline title="Yet Another Value Blog" type="rss" htmlUrl="https://yetanothervalueblog.substack.com" xmlUrl="https://yetanothervalueblog.substack.com/feed/" text="Yet Another Value Blog" />
+<outline text="My Broke Investor Newsletter" htmlUrl="https://mybrokeinvestor.substack.com" title="My Broke Investor Newsletter" type="rss" xmlUrl="https://mybrokeinvestor.substack.com/feed/" />
+<outline type="rss" xmlUrl="https://thestocknovice.substack.com/feed/" text="TheStockNovice" htmlUrl="https://thestocknovice.substack.com" title="TheStockNovice" />
+<outline text="Liviam Capital - Finding Reinvestment Moats" xmlUrl="https://liviamcapital.substack.com/feed/" htmlUrl="https://www.liviamcapital.com" title="Liviam Capital - Finding Reinvestment Moats" type="rss" />
+<outline htmlUrl="https://adventuresinfi.substack.com" title="Adventures in Financial Independence" type="rss" text="Adventures in Financial Independence" xmlUrl="https://adventuresinfi.substack.com/feed/" />
+<outline title="Mr. Buyside: The Long and Short of It" htmlUrl="https://mrbuyside.substack.com" type="rss" text="Mr. Buyside: The Long and Short of It" xmlUrl="https://mrbuyside.substack.com/feed/" />
+<outline title="The Wolf of Harcourt Street" type="rss" htmlUrl="https://www.wolfofharcourtstreet.com" text="The Wolf of Harcourt Street" xmlUrl="https://www.wolfofharcourtstreet.com/feed/" />
+<outline xmlUrl="https://ideacloner.substack.com/feed/" type="rss" htmlUrl="https://ideacloner.substack.com" text="Anil's investing journey" title="Anil's investing journey" />
+<outline xmlUrl="https://cloudedjudgement.substack.com/feed/" title="Clouded Judgement" text="Clouded Judgement" htmlUrl="https://cloudedjudgement.substack.com" type="rss" />
+<outline title="George’s Newsletter" type="rss" xmlUrl="https://finny.substack.com/feed/" htmlUrl="https://finny.substack.com" text="George’s Newsletter" />
+<outline text="Hisa’s Newsletter" xmlUrl="https://hisa.substack.com/feed/" title="Hisa’s Newsletter" htmlUrl="https://hisa.substack.com" type="rss" />
+<outline htmlUrl="https://fyi.moneyguy.com" text="FYI by FTE" type="rss" title="FYI by FTE" xmlUrl="https://fyi.moneyguy.com/feed/" />
+<outline htmlUrl="https://www.mbi-deepdives.com/" type="rss" title="MBI Deep Dives" text="MBI Deep Dives" xmlUrl="https://mbi-deepdives.com/feed/" />
+<outline text="Not Boring by Packy McCormick" title="Not Boring by Packy McCormick" htmlUrl="https://www.notboring.co" type="rss" xmlUrl="https://www.notboring.co/feed/" />
+<outline text="The Bear Cave" htmlUrl="https://thebearcave.substack.com" xmlUrl="https://thebearcave.substack.com/feed/" type="rss" title="The Bear Cave" />
+<outline type="rss" title="The Global Investor" text="The Global Investor" xmlUrl="https://invesquotes.substack.com/feed/" htmlUrl="https://theglobalinvestor.substack.com" />
+<outline title="Market Loop Archive Feed" htmlUrl="https://us1.campaign-archive.com/feed?u=608c2cc16c98333d31af81ddf&amp;id=421a69e2fe" type="rss" xmlUrl="https://us1.campaign-archive.com/feed?u=608c2cc16c98333d31af81ddf&amp;id=421a69e2fe" text="Market Loop Archive Feed" />
+<outline htmlUrl="https://altgoesmainstream.substack.com" text="Alt Goes Mainstream" title="Alt Goes Mainstream" xmlUrl="https://altgoesmainstream.substack.com/feed/" type="rss" />
+<outline type="rss" text="Neckar's Minds and Markets" htmlUrl="https://neckar.substack.com" title="Neckar's Minds and Markets" xmlUrl="https://neckar.substack.com/feed/" />
+<outline type="rss" xmlUrl="https://us13.campaign-archive.com/feed?u=6dc62f307511d466ff78a94fe&amp;id=6d62717de8" title="Verdad Weekly Research Archive Feed" htmlUrl="https://us13.campaign-archive.com/feed?u=6dc62f307511d466ff78a94fe&amp;id=6d62717de8" text="Verdad Weekly Research Archive Feed" />
+<outline type="rss" xmlUrl="https://etfps.substack.com/feed/" text="The ETF Portfolio Strategist" title="The ETF Portfolio Strategist" htmlUrl="https://etfps.substack.com" />
+<outline type="rss" xmlUrl="https://50in50.substack.com/feed" title="50 Trades in 50 Weeks" text="50 Trades in 50 Weeks" htmlUrl="https://50in50.substack.com" />
+</outline>
+<outline title="Finance Podcast" text="Finance Podcast">
+<outline xmlUrl="https://www.howtomoney.com/feed/" htmlUrl="https://www.howtomoney.com" type="rss" text="How to Money" title="How to Money" />
+<outline htmlUrl="https://affordanything.com" title="Afford Anything" text="Afford Anything" xmlUrl="http://feeds.feedburner.com/AffordAnythingFeed" type="rss" />
+<outline type="rss" htmlUrl="https://www.smartpassiveincome.com" title="Smart Passive Income" xmlUrl="https://www.smartpassiveincome.com/feed/" text="Smart Passive Income" />
+</outline>
+<outline title="Fintech" text="Fintech">
+<outline xmlUrl="https://ripple.com/feed/" text="Ripple" title="Ripple" type="rss" htmlUrl="https://ripple.com" />
+<outline text="The Financial Brand" htmlUrl="https://thefinancialbrand.com" xmlUrl="http://feeds.feedburner.com/thefinancialbrand" title="The Financial Brand" type="rss" />
+<outline text="Finextra Research Headlines" title="Finextra Research Headlines" type="rss" htmlUrl="https://www.finextra.com" xmlUrl="http://www.finextra.com/rss/headlines.asp" />
+<outline text="Daily Fintech" title="Daily Fintech" htmlUrl="https://dailyfintech.com/" xmlUrl="http://bernardlunn.com/feed/" type="rss" />
+<outline title="PYMNTS.com" text="PYMNTS.com" htmlUrl="https://www.pymnts.com" type="rss" xmlUrl="http://www.pymnts.com/feed/" />
+</outline>
+<outline text="Hustle" title="Hustle">
+<outline xmlUrl="https://www.sidehustlenation.com/feed/" type="rss" text="Side Hustle Nation" title="Side Hustle Nation" htmlUrl="https://www.sidehustlenation.com/" />
+<outline text="Daily Trade Alert" type="rss" htmlUrl="https://dailytradealert.com/" xmlUrl="https://dailytradealert.com/feed/" title="Daily Trade Alert" />
+<outline text="The Hustle" title="The Hustle" xmlUrl="https://thehustle.co/feed/" htmlUrl="https://thehustle.co/" type="rss" />
+</outline>
+<outline title="Newsletter" text="Newsletter">
+<outline htmlUrl="https://www.brinkerstockadvisor.com" text="Brinker Stock Advisor" xmlUrl="https://brinker.substack.com/feed/" type="rss" title="Brinker Stock Advisor" />
+<outline xmlUrl="https://seekingnorthbyrohit.substack.com/feed/" type="rss" text="Seeking North" title="Seeking North" htmlUrl="https://seekingnorthbyrohit.substack.com" />
+<outline text="ProductFix" htmlUrl="https://productstride.substack.com" type="rss" title="ProductFix" xmlUrl="https://productstride.substack.com/feed/" />
+<outline title="Vue.js Developers Blog" type="rss" htmlUrl="https://vuejsdevelopers.com" xmlUrl="https://vuejsdevelopers.com/feed.xml" text="Vue.js Developers Blog" />
+<outline type="rss" text="Better Have My Money" title="Better Have My Money" xmlUrl="https://betterhavemymoney.substack.com/feed/" htmlUrl="https://betterhavemymoney.substack.com" />
+<outline type="rss" text="PyCoder’s Weekly" htmlUrl="https://pycoders.com/feed/MnhkJ62L" title="PyCoder’s Weekly" xmlUrl="https://pycoders.com/feed/MnhkJ62L" />
+<outline text="OrgDev by For Better Orgs" title="OrgDev by For Better Orgs" htmlUrl="https://orgdev.substack.com" xmlUrl="https://orgdev.substack.com/feed/" type="rss" />
+<outline type="rss" title="The Beautiful Mess" htmlUrl="https://cutlefish.substack.com" text="The Beautiful Mess" xmlUrl="https://cutlefish.substack.com/feed/" />
+<outline xmlUrl="https://android.libhunt.com/newsletter/feed" title="Awesome Android Newsletter" htmlUrl="https://android.libhunt.com/newsletter" text="Awesome Android Newsletter" type="rss" />
+<outline type="rss" text="Last Week in Kubernetes Development" xmlUrl="https://lwkd.info/feed.xml" title="Last Week in Kubernetes Development" htmlUrl="http://lwkd.info/" />
+<outline type="rss" title="DB Weekly" text="DB Weekly" htmlUrl="https://dbweekly.com/" xmlUrl="https://dbweekly.com/rss/1jboji0d" />
+<outline xmlUrl="https://5minutestartupcto.substack.com/feed/" text="The 5-Minute Startup CTO" type="rss" htmlUrl="https://5minutestartupcto.substack.com" title="The 5-Minute Startup CTO" />
+<outline type="rss" htmlUrl="https://betterdev.link" title="Better Dev Link" xmlUrl="https://betterdev.link/rss.xml" text="Better Dev Link" />
+<outline type="rss" htmlUrl="https://us15.campaign-archive.com/feed?u=dbfcd660859177225962fa83e&amp;id=a94ca11274" title="PHP Weekly Archive Feed" text="PHP Weekly Archive Feed" xmlUrl="http://www.phpweekly.com/rss.xml" />
+<outline title="Frontend Weekly" xmlUrl="https://frontendweekly.co/issues.rss" text="Frontend Weekly" type="rss" htmlUrl="https://frontendweekly.co/issues" />
+<outline text="Ruby Weekly" htmlUrl="https://rubyweekly.com/" xmlUrl="https://rubyweekly.com/rss/24kb2a5h" type="rss" title="Ruby Weekly" />
+<outline type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed/" title="Astral Codex Ten" text="Astral Codex Ten" />
+</outline>
+<outline title="Podcast" text="Podcast">
+<outline xmlUrl="https://microconf.com/home?format=rss" htmlUrl="https://microconf.com/" title="MicroConf - The Most Trusted Community for Non-Venture Track SaaS Founders" type="rss" text="MicroConf - The Most Trusted Community for Non-Venture Track SaaS Founders" />
+<outline xmlUrl="https://www.effectivefounder.com/feed/" text="The Effective Founder" type="rss" htmlUrl="https://www.effectivefounder.com" title="The Effective Founder" />
+<outline text="Startups For the Rest of Us" type="rss" title="Startups For the Rest of Us" htmlUrl="https://www.startupsfortherestofus.com/" xmlUrl="https://www.startupsfortherestofus.com/feed" />
+<outline type="rss" title="Product Journey" htmlUrl="http://productjourney.fm" xmlUrl="https://feeds.transistor.fm/product-journey" text="Product Journey" />
+</outline>
+<outline text="StartUp" title="StartUp">
+<outline title="The Bootstrapped Founder" text="The Bootstrapped Founder" htmlUrl="https://thebootstrappedfounder.com/" type="rss" xmlUrl="https://thebootstrappedfounder.com/feed/" />
+</outline>
+<outline title="Tech News" text="Tech News">
+<outline htmlUrl="https://www.zdnet.com/" title="Latest news" text="Latest news" type="rss" xmlUrl="https://www.zdnet.com/news/rss.xml" />
+<outline title="Home | Security Info Watch" xmlUrl="https://www.securityinfowatch.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D" text="Home | Security Info Watch" type="rss" htmlUrl="securityinfowatch.com/" />
+</outline>
+</body>
+</opml>
